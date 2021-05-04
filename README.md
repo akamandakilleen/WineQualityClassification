@@ -1,6 +1,8 @@
 # WineQualityClassification
 #### by Amanda Killeen
 
+[Presentation on YouTube](https://youtu.be/-RLZdLeh18c)
+
 ## Problem & Motivation
 They say to never judge a book by its cover, but I almost exclusively judge a wine by it’s label. When selecting a wine, if it’s just for me, I’ll go for something towards the bottom shelf (i.e. cheaper) with a cool looking label; if it’s for a special occasion, I’ll look towards the top shelves (i.e. pricier) and again, the label wins. 
 
